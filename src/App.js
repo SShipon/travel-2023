@@ -4,20 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad, debitis. Fugiat, neque delectus eum ut molestias aspernatur quos, sunt inventore distinctio, voluptatem quo nesciunt atque rerum et. Amet aliquid id dolores quae, illo nemo est ipsa, placeat asperiores maxime quis numquam voluptatem odit et illum saepe facere sint iure harum laudantium dolorum hic dolore aspernatur! Ratione obcaecati officia ullam quis natus, fugit doloribus dignissimos hic accusamus nisi neque in nihil aspernatur cumque rerum quasi suscipit laudantium, soluta repellat, libero vel dolore atque. Debitis voluptas blanditiis laudantium aliquid quia unde, soluta, fugit numquam doloribus, odio natus nostrum dolorum totam quis sit culpa sint! Voluptas odio praesentium fuga quidem possimus itaque laboriosam amet labore molestiae fugiat quos quibusdam vel officiis maxime, debitis quae dolores nostrum minus fugit, tempora doloremque nemo alias quod! Nulla perspiciatis nemo ducimus accusantium tenetur libero debitis labore commodi porro veritatis eius minus animi aliquid voluptas dolorem accusamus odit molestias, minima et atque exercitationem voluptatum repellendus quod vitae. Accusantium eius odio ab deleniti voluptates sed temporibus doloribus! Quis voluptates et necessitatibus veritatis dolorum obcaecati soluta amet, ut ipsa doloremque unde ducimus ipsam, corrupti tenetur vero neque non excepturi ipsum quaerat modi natus voluptas aliquam! Magnam at commodi et minima, vel consequuntur sed, earum rem veniam autem hic aperiam, sequi cupiditate eaque non necessitatibus. Expedita sed tempore iste, sequi corporis nisi perspiciatis unde dolorum harum et impedit quasi aliquid porro corrupti iure, earum cum optio eligendi ipsam ratione? Amet nobis expedita sequi vitae aperiam ad tenetur iusto, consectetur quas suscipit maiores cumque. Labore corrupti dolores optio ducimus ab omnis? Magni neque inventore corrupti earum doloribus. Qui voluptas, explicabo nihil assumenda necessitatibus labore tempora! Maiores iusto ut officiis eum, soluta recusandae dolor exercitationem consequuntur magni sequi nulla quo ipsa excepturi repellendus neque ea temporibus eius quas voluptas quaerat quod minima perspiciatis pariatur! Dignissimos rerum officiis voluptas dolorem molestias nihil unde hic sint earum aut culpa animi quos pariatur ex fugiat quis temporibus molestiae corrupti modi, fugit totam ipsam exercitationem autem et. Distinctio natus, neque rem nostrum architecto at cum quisquam quidem sed enim itaque commodi vel! A voluptatibus soluta nobis voluptas nisi ex voluptatem, distinctio atque nihil tempore sapiente ducimus ipsa in illo neque repellendus non vitae dicta animi? Cumque aperiam libero nulla eligendi vel illum consequuntur soluta tempora provident aut nesciunt tenetur optio saepe omnis culpa fuga pariatur odit error, ipsa iure harum! Illum voluptatem ullam iure, soluta cumque distinctio ea laboriosam quibusdam, sint aperiam blanditiis id, quos itaque quisquam corporis ratione veritatis iusto perferendis! Ad deserunt nemo aspernatur ratione eligendi animi eos sed suscipit iste qui aliquam magni repudiandae harum sit adipisci optio, quaerat quasi vel omnis minima sapiente ea id cum? Odio porro sint, fugiat culpa placeat pariatur perferendis natus rem, dolore ut odit eligendi ratione quidem voluptatem consectetur! Eum ex neque quam unde velit iste corporis quod at. Perspiciatis doloribus quaerat, rerum tenetur laudantium itaque accusantium assumenda maxime alias. Provident cupiditate iste illum nesciunt, quia iusto ipsam, ullam id tempore sapiente temporibus laborum asperiores, molestiae repudiandae praesentium!</p>
     </div>
   );
 }
